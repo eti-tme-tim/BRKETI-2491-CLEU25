@@ -1,0 +1,2 @@
+tap "ats-operations/tap", "https://wwwin-github.cisco.com/ATS-operations/homebrew-tap"
+brew "ats-operations/tap/duo-sso"

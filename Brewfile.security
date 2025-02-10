@@ -1,0 +1,8 @@
+brew "gh"
+brew "kics"
+brew "gitleaks"
+brew "aws-iam-authenticator"
+brew "awscli"
+brew "trivy"
+brew "kube-bench"
+brew "node"
