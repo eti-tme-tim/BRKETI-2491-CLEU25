@@ -4,3 +4,6 @@
 [submodule "scans"]
 	path = cloudsploit
 	url = https://github.com/cloudsploit/scans
+[submodule "cloud-infrastructure"]
+	path = cloud-infrastructure
+	url = https://github.com/panoptica-demo/panoptica-demo-data.git
